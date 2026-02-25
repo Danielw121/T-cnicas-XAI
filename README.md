@@ -143,14 +143,6 @@ jupyter notebook XAI_Creditos_Bancarios.ipynb
 - **Exclusión sistemática**: personas sin historial crediticio (jóvenes, migrantes) quedan penalizadas estructuralmente.
 - **Opacidad sin XAI**: sin explicabilidad, los solicitantes rechazados no tienen forma de conocer ni cuestionar los motivos.
 
-### Recomendaciones
-- Auditorías periódicas de fairness (Equal Opportunity, Demographic Parity).
-- Proporcionar explicaciones automatizadas a los clientes (cumplimiento GDPR / regulaciones locales).
-- Revisión humana para casos borderline (probabilidad entre 40%–60%).
-- Re-entrenamiento periódico con datos actualizados.
-
----
-
 ## 📚 Referencias
 
 - Lundberg, S. M., & Lee, S. I. (2017). *A unified approach to interpreting model predictions*. NIPS.
@@ -162,7 +154,7 @@ jupyter notebook XAI_Creditos_Bancarios.ipynb
 
 ## 👥 Autores
 
-> Completar con los nombres del equipo
+> Daniel Wong
 
 ---
 
