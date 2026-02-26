@@ -1,4 +1,4 @@
-# 🏦 Taller XAI – Explicabilidad en Modelos de Crédito Bancario
+# Taller XAI – Explicabilidad en Modelos de Crédito Bancario
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -7,13 +7,13 @@
 
 ---
 
-## 📖 Descripción
+## Descripción
 
 Este repositorio contiene el desarrollo completo del **Taller de Explicabilidad (XAI)** aplicado a un sistema de evaluación de créditos bancarios. El objetivo es demostrar cómo las técnicas de IA Explicable permiten comprender, auditar y comunicar las decisiones de modelos de Machine Learning, con especial atención a los riesgos éticos y sociales de sistemas automatizados de decisión crediticia.
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 ├── XAI_Creditos_Bancarios.ipynb   # Notebook principal (Google Colab)
