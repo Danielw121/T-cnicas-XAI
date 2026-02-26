@@ -156,6 +156,7 @@ jupyter notebook XAI_Creditos_Bancarios.ipynb
 
 > Daniel Wong
 > Luigy David Miranda Sandoval
+> Jhustin Orozco Rocha
 ---
 
 ## 📄 Licencia
