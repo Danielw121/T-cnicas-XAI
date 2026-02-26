@@ -155,7 +155,7 @@ jupyter notebook XAI_Creditos_Bancarios.ipynb
 ## 👥 Autores
 
 > Daniel Wong
-
+> Luigy David Miranda Sandoval
 ---
 
 ## 📄 Licencia
